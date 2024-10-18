@@ -1,0 +1,10 @@
+.form {
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    font-family: sans-serif;
+}
+body {
+    background-color: black;
+    color: aliceblue;
+}

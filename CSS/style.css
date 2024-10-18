@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+p {
+    color: antiquewhite;
+}
+#id {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: red;
+}
+.class {
+    font-size: larger;
+    text-align: left;
+    color: blue;
+}
+div {
+    font-size: xx-large;
+    text-shadow: 0cap;
+    color: green;
+}
